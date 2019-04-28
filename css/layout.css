@@ -25,3 +25,37 @@
 /* Positioning Classes */
 
 
+.shadow {
+  background: white;
+  box-shadow: 0 3px 10px #333;
+}
+
+.grass {
+  float: left;
+  width: 65.3%;
+}
+
+.archive {
+  float: right;
+  width: 33%;
+}
+
+.left-col {
+  float: left;
+  clear: both;
+  width: 306px;
+  margin: 16px 16px 0 0;
+}
+
+.middle-col {
+  float: left;
+  width: 305px;
+  margin-top: 16px;
+}
+
+.right-col {
+    float: right;
+    width: 33%;
+    height: 358px;
+    margin-top: 16px;
+}
